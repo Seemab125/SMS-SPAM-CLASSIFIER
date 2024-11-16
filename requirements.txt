@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 scikit-learn==1.5.1
 nltk==3.7
 streamlit==1.33.0
+=======
+scikit-learn==1.5.1
+nltk==3.7
+streamlit==1.33.0
+>>>>>>> abd7fa369bfc7ab7a2217dc7d8553d5f12bd16dc
